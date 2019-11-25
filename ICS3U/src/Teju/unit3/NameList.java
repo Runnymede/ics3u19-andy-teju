@@ -16,12 +16,17 @@ public class NameList {
 			
 		Scanner sc = new Scanner (System.in);
 	
-		int counter = 1;
+		System.out.println("Enter the number of names");
+		int counter = sc.nextInt();
+		String [] sArray=
 		System.out.println("Enter the list of names");
 		for (int i=0; i<n 1++);
-				{		
 				
-					
+				
+				{		
+		
+			
+			
 							
 					
 		}
